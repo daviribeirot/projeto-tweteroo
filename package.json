@@ -1,0 +1,22 @@
+{
+  "name": "projeto12-tweteroo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daviribeirot/projeto-tweteroo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daviribeirot/projeto-tweteroo/issues"
+  },
+  "homepage": "https://github.com/daviribeirot/projeto-tweteroo#readme"
+}
